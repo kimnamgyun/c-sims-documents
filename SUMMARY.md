@@ -10,7 +10,10 @@
   * [Install Wazuh agent with RPM packages](installation-guide/ids-agents/install-wazuh-agent-with-rpm-packages.md)
 * [Metric Beats](installation-guide/metric-beats/README.md)
   * [Install Metricbeat](installation-guide/metric-beats/install-metricbeat.md)
-* [Download](download-1/README.md)
-  * [IDS Agents](download-1/untitled.md)
-  * [Metricbeat](download-1/untitled-1.md)
+
+## Download
+
+* [Download](download/download-1/README.md)
+  * [IDS Agents](download/download-1/untitled.md)
+  * [Metricbeat](download/download-1/untitled-1.md)
 
