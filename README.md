@@ -1,2 +1,6 @@
-# Initial page 입니다
+---
+description: hi
+---
+
+# Initial page
 
