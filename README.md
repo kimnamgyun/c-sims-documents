@@ -1,6 +1,2 @@
----
-description: hi
----
-
 # Getting started
 
