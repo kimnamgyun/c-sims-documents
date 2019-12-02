@@ -2,5 +2,5 @@
 description: hi
 ---
 
-# Initial page
+# Getting started
 
