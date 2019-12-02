@@ -1,2 +1,2 @@
-# Initial page
+# Initial page 입니다
 
