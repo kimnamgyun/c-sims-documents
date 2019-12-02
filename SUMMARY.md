@@ -16,4 +16,6 @@
 * [Download](download/download-1/README.md)
   * [IDS Agents](download/download-1/untitled.md)
   * [Metricbeat](download/download-1/untitled-1.md)
+* [End User License Agreement](end-user-license-agreement.md)
+* [Refund Policy](refund-policy.md)
 
