@@ -1,4 +1,4 @@
-# Register Agent
+# Registering agents
 
 To register an agent, follow these steps:
 
