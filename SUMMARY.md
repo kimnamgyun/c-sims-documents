@@ -15,6 +15,7 @@
     * [Checking connection with Manager](installation-guide/ids-agents/agent-management/checking-connection-with-manager.md)
 * [Metric Beats](installation-guide/metric-beats/README.md)
   * [Install Metricbeat](installation-guide/metric-beats/install-metricbeat.md)
+  * [Configure Metricbeat](installation-guide/metric-beats/configure-metricbeat.md)
 * [End User License Agreement](end-user-license-agreement.md)
 * [Refund Policy](refund-policy.md)
 * [Download](download/README.md)
