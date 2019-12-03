@@ -4,5 +4,5 @@
 
 ## 2. Install Meticbeat With RPM Package -&gt; [Install With RPM](https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.4.2-x86_64.rpm)
 
-## 3. Install Meticbeat on Windows -&gt; [Install wWith Windows](https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.4.2-windows-x86_64.zip)
+## 3. Install Meticbeat on Windows -&gt; [Install With Windows](https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-7.4.2-windows-x86_64.zip)
 
