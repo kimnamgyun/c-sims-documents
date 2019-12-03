@@ -11,6 +11,7 @@
     * [Install agent with DEB packages](installation-guide/ids-agents/install-agent/install-agent-with-deb-packages.md)
   * [Agent Management](installation-guide/ids-agents/agent-management/README.md)
     * [The registration process](installation-guide/ids-agents/agent-management/the-registration-process.md)
+    * [Register Agent](installation-guide/ids-agents/agent-management/register-agent.md)
 * [Metric Beats](installation-guide/metric-beats/README.md)
   * [Install Metricbeat](installation-guide/metric-beats/install-metricbeat.md)
 * [End User License Agreement](end-user-license-agreement.md)
