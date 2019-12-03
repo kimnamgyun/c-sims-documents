@@ -2,7 +2,7 @@
 
 To register an agent, follow these steps:
 
-1.  On the **manager**, run `manage_agents`:
+1.  On the **manager**, run `manage_agents`: /var/ossec/etc/ossec.conf
 
 ```text
 /var/ossec/bin/manage_agents
