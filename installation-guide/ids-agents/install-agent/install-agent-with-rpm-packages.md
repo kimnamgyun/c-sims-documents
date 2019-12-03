@@ -4,7 +4,7 @@ description: >-
   RPM-based systems.
 ---
 
-# Install Wazuh agent with RPM packages
+# Install agent with RPM packages
 
 {% hint style="info" %}
 Many of the commands described below need to be executed with root user privileges.

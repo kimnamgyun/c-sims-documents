@@ -10,7 +10,7 @@ To install the Windows agent from the GUI, run the downloaded file and follow th
 
 Once installed, the agent uses a graphical user interface for configuration, opening the log file or starting and stopping the service.
 
-![](../../.gitbook/assets/windowagent.jpg)
+![](../../../.gitbook/assets/windowagent.jpg)
 
  By default, all agent files will be found in: `C:\Program Files(x86)\ossec-agent`.
 
