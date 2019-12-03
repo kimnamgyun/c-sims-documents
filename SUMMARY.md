@@ -20,6 +20,6 @@
 * [End User License Agreement](end-user-license-agreement.md)
 * [Refund Policy](refund-policy.md)
 * [Download](download/README.md)
-  * [Metricbeat](download/metricbeat.md)
   * [IDS Agents](download/ids-agents.md)
+  * [Metricbeat](download/metricbeat.md)
 
