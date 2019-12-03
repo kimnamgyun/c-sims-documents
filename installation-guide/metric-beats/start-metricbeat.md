@@ -2,7 +2,7 @@
 
  Run Metricbeat by issuing the appropriate command for your platform. If you are accessing a secured Elasticsearch cluster, make sure you’ve configured credentials as described in Configure Metricbeat.
 
-### 1. Deb and Rpm
+### 1. DEB and RPM
 
 ```text
 sudo service metricbeat start
