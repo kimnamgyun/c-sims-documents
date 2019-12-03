@@ -10,12 +10,9 @@
   * [Install agent on Windows](installation-guide/ids-agents/install-agent-on-windows.md)
 * [Metric Beats](installation-guide/metric-beats/README.md)
   * [Install Metricbeat](installation-guide/metric-beats/install-metricbeat.md)
-
-## Download
-
-* [Download](download/download-1/README.md)
-  * [IDS Agents](download/download-1/ids-agents.md)
-  * [Metricbeat](download/download-1/metricbeat.md)
 * [End User License Agreement](end-user-license-agreement.md)
 * [Refund Policy](refund-policy.md)
+* [Download](download/README.md)
+  * [Metricbeat](download/metricbeat.md)
+  * [IDS Agents](download/ids-agents.md)
 
